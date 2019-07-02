@@ -1,10 +1,14 @@
 # Keeping up with containers 
 
+## General/ High-level 
+- [Understanding Container Runtimes- Blog Series](https://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r)
+
 ## Docker 
 
 #### Latest updates and news 
 - [Docker Containers on Windows Server 2019](https://computingforgeeks.com/how-to-run-docker-containers-on-windows-server-2019/)
 - [Dockerfile Best Practices- June 2019](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+- [DockerCon 2019 On-Demand Videos](https://www.docker.com/dockercon/2019-videos/)
   
 #### Background Information
 - [Container 101 EBook by Puppet](https://puppet.com/resources/ebook/geek-guide-containers-101)
@@ -58,6 +62,10 @@
 - [Recommended Kubernetes Tutorials](https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials#id-70BestKubernetesTutorials-helm)
 - [Microsoft Cloud Workshop- Containers and DevOps](https://github.com/Microsoft/MCW-Containers-and-DevOps) 
 - [Azure Kubernetes Service Lab](https://aksworkshop.io/)
+
+#### CRI-O 
+- [CRI-O runtime overview](https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/)
+- [Info/Learning for CRI-O](https://www.aquasec.com/wiki/display/containers/CRI-O)
 
 #### Operationalizing Azure Kubernetes Service
 - [Operational Best Practices for AKS](https://www.youtube.com/watch?v=RJJ4CUyja6M)
