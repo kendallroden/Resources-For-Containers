@@ -4,6 +4,7 @@
 
 #### Latest updates and news 
 - [Docker Containers on Windows Server 2019](https://computingforgeeks.com/how-to-run-docker-containers-on-windows-server-2019/)
+- [Dockerfile Best Practices- June 2019](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
   
 #### Background Information
 - [Container 101 EBook by Puppet](https://puppet.com/resources/ebook/geek-guide-containers-101)
