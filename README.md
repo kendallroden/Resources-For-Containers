@@ -29,6 +29,7 @@
 - [Docker web series](https://goto.docker.com/2019_AMER-Docker-Enterprise-Webinar-Series.html?utm=email)
 
 #### Tips and Tricks 
+- [Docker Anti-Patterns](https://codefresh.io/containers/docker-anti-patterns/)
 - [Getting a shell in Docker for Windows Moby VM](https://www.bretfisher.com/getting-a-shell-in-the-docker-for-windows-vm/)
 - [Docker Logging Design and Best Practices](https://success.docker.com/article/logging-best-practices#introduction)
 
