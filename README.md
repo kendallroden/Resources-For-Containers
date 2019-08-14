@@ -45,6 +45,7 @@
   
 
 #### Reference materials  
+- [Helpful Docker/K8s articles and blog posts by @dwahlin](https://flipboard.com/@dwahlin/the-docker-kubernetes-magazine-vp93fvnry)
 - [Containerize your apps with Docker and Kubernetes](https://azure.microsoft.com/en-us/resources/containerize-your-apps-with-docker-and-kubernetes/) 
 - [AKS Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)
 - [Kubernetes Security Guide](https://sysdig.lookbookhq.com/c/pf-kubernetes-security-guide?mkt_tok=eyJpIjoiT1RFNVltWmhZV0l3TURJMSIsInQiOiJRZzJodEMxdmQ0N2tLcCtEWjNlZmNBQ3VpSDhaY05meVBTT0huQ04ydXRRajNydjNaak1ydjlWZEw2ZkIyUDFLdm9DZGhKRlJ2QVBTamQrOHFSTnNQcWZJQUxIczRDRkVJVVlvOXZGcEFIcXZqS0lrN242REp1U3o1MDRYeGhmUCJ9&utm_medium=email&utm_source=secure-nurture&x=TThUsG)
