@@ -58,7 +58,7 @@
 - [Microsoft Cloud Workshop- Containers and DevOps](https://github.com/Microsoft/MCW-Containers-and-DevOps) 
 - [Azure Kubernetes Service Lab](https://aksworkshop.io/)
 
-##### Azure Red Hat Open Shift 
+#### Azure Red Hat Open Shift 
 - [ARO Workshop](http://aroworkshop.io/)
 
 #### CRI-O: k8s native runtime
