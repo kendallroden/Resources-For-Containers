@@ -49,6 +49,7 @@
 - [Discover and launch great Kubernetes ready apps](https://hub.kubeapps.com/)
 
 #### Hands-on-Labs
+- [AKS Lab 200-250](https://github.com/Gordonby/AKS-K8S-Lab-L200)
 - [Kubernetes Hackfest](https://github.com/Azure/kubernetes-hackfest)
 - [Kubernetes classroom](https://training.play-with-kubernetes.com/kubernetes-workshop/)
 - [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
